@@ -19,6 +19,24 @@ ST-LINK Utility : https://www.st.com/en/development-tools/stsw-link004.html
   کد زیر را وارد , در نهایت Apply را بزنید تا تغییرات ذخیره شود
   arm-none-eabi-objcopy -O ihex ${ProjName}.elf ${ProjName}.hex
 
+
+
+## دانلود نرم افزار ها
+
+
+[Stm32 Cube IDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+
+[Stm32 Cube MX](https://www.st.com/en/development-tools/stm32cubemx.html)
+
+[ST-LINK Utility](https://www.st.com/en/development-tools/stsw-link004.html)
+
+## مستندات
+
+[Stm32F10xxx Reference Manual ](https://www.st.com/resource/en/reference_manual/rm0008-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-armbased-32bit-mcus-stmicroelectronics.pdf)
+
+[Stm32F1 HAL & Lowayer Drivers User Manual](https://www.st.com/resource/en/user_manual/um1850-description-of-stm32f1-hal-and-lowlayer-drivers-stmicroelectronics.pdf)
+
+
  
 
 
