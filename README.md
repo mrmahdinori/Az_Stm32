@@ -4,7 +4,8 @@
 
 
 
-لینک دانلود رسمی نرم افزار های Stm32 Cube
+لینک دانلود رسمی نرم افزار های STM32 
+
 Stm32 Cube IDE : https://www.st.com/en/development-tools/stm32cubeide.html
 
 Stm32 Cube MX : https://www.st.com/en/development-tools/stm32cubemx.html
