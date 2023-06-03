@@ -1,4 +1,4 @@
-# Az_Stm32 ![Logo](https://github.com/mrmahdinori/Az_Stm32/blob/main/STM32.png)
+# Az_Stm32 ![Logo](https://github.com/mrmahdinori/Az_Stm32/blob/main/Stm32.png)
 
 
 ## در این بخش تمام فایل های مربوط به آزمایش های عملی کتاب (تست شده) قرار گرفته است.
