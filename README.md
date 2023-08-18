@@ -34,6 +34,6 @@
  
 ## سازنده
 
-- [mrmahdinori](https://www.github.com/mrmahdinori)
+- [@mrmahdinori](https://www.github.com/mrmahdinori)
 
 
