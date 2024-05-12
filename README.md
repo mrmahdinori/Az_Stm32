@@ -10,11 +10,11 @@
 
 برای تولید فایل .HEX پروژه خود
 
-روش اوم: در مسیر
+روش اول: در مسیر
 Properties -> C/C++ Build -> Settings -> Tool Settings -> MCU Post build outputs
 تیک گزینه Convert to Intel HEX file را فعال کنید.
 
-روش دول : ابتدا پروژه خود را در محیط IDE انتخاب کرده و بر روی آن کلیک راست کنید از قسمت
+روش دوم : ابتدا پروژه خود را در محیط IDE انتخاب کرده و بر روی آن کلیک راست کنید از قسمت
  Properties -> C/C++ Build -> Settings -> Build Steps -> Post-build step
   کد زیر را وارد , در نهایت Apply را بزنید تا تغییرات ذخیره شود.
   arm-none-eabi-objcopy -O ihex ${ProjName}.elf ${ProjName}.hex
